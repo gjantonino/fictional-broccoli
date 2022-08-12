@@ -35,7 +35,6 @@
       "name": "Ruuts Mobile Data Collection",
       "short_name": "Ruuts Mobile",
       "description": "Data collection on the field",
-      "url": "/",
       "icons": [{ "src": "maskable_icon_x192.png.png", "sizes": "192x192" }]
     }
   ]
