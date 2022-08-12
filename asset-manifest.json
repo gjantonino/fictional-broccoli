@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-gh-pages/static/js/main.41369d95.js",
+    "static/js/787.06ed5321.chunk.js": "/react-gh-pages/static/js/787.06ed5321.chunk.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "index.html": "/react-gh-pages/index.html",
+    "main.41369d95.js.map": "/react-gh-pages/static/js/main.41369d95.js.map",
+    "787.06ed5321.chunk.js.map": "/react-gh-pages/static/js/787.06ed5321.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.41369d95.js"
+  ]
+}
